@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import SimpleEvents from './SimpleEvents';
+import EventAndState from './EventAndState';
 
 function App() {
 	return (
 		<div className='App'>
-			<SimpleEvents />			
+			<EventAndState />			
 		</div>
 	);
 }
